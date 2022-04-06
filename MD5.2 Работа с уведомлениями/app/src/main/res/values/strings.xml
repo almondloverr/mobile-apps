@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">MD5.2</string>
+    <string name="work_notifications">Clicker</string>
+
+    <string name="servicefg">1 Button</string>
+    <string name="start_click">2 Button</string>
+
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+
+</resources>

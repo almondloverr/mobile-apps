@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Сообщения</string>
+    <string name="broadcast_app">Работа с широковещательными сообщениями</string>
+    <string name="send_msg">Отправить сообщение</string>
+</resources>

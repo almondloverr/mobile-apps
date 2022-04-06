@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ваша музыка</string>
+    <string name="app_desc">Ваша музыка</string>
+    <string name="start_listening">Начать прослушивание</string>
+    <string name="stop_listening">Остановить прослушивание</string>
+    <string name="go_to_playlist">Включить плейлист</string>
+    <string name="starting_playlist">Ваш плейлист</string>
+    <string name="next_track">Следующий трек</string>
+    <string name="unbind_service">Остановить прослушивание</string>
+</resources>
